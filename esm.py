@@ -3,4 +3,4 @@ count = 0
 for esm in users:
     if len(esm) <5:
         count = count + 1
-        print(count)
+print(count)
