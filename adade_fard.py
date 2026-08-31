@@ -4,5 +4,5 @@ for i in range(15,115,2):
     fard = []
     fard.append(i)
     count = count + 1
-    print(count)
+print(count)
     
